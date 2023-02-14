@@ -1,17 +1,18 @@
 <Languages>
-    <Language id="en" name="English" fontSet="xolonium-kwajong"/>
-    <Language id="fr" name="Français" fontSet="xolonium-kwajong"/>
+    <Language id="bn" name="বাংলা" fontSet="noto-bengali"/>
     <Language id="de" name="Deutsch" fontSet="xolonium-kwajong"/>
-    <Language id="pl" name="Polski" fontSet="xolonium-kwajong"/>
+    <Language id="en" name="English" fontSet="xolonium-kwajong"/>
     <Language id="es" name="Español" fontSet="xolonium-kwajong"/>
     <Language id="eo" name="Esperanto" fontSet="xolonium"/>
     <Language id="eu" name="Euskara" fontSet="xolonium-kwajong"/>
-    <Language id="sv" name="Svenska" fontSet="xolonium-kwajong"/>
-    <Language id="ru" name="Русский" fontSet="xolonium"/>
-    <Language id="bn" name="বাংলা" fontSet="noto-bengali"/>
-    <Language id="zh_CN" name="简体中文" fontSet="noto-cjk"/>
+    <Language id="fr" name="Français" fontSet="xolonium-kwajong"/>
     <Language id="hu" name="Magyar" fontSet="xolonium-kwajong"/>
+    <Language id="it_IT" name="Ialiano" fontSet="xolonium-kwajong"/>
+    <Language id="pl" name="Polski" fontSet="xolonium-kwajong"/>
+    <Language id="ru" name="Русский" fontSet="xolonium"/>
+    <Language id="sv" name="Svenska" fontSet="xolonium-kwajong"/>
     <Language id="tr" name="Turkish" fontSet="xolonium-kwajong"/>
+    <Language id="zh_CN" name="简体中文" fontSet="noto-cjk"/>
 
     <FontSet id="xolonium-kwajong"
         defaultFontName="Xolonium-Regular.ttf"
